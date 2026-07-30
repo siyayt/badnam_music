@@ -51,7 +51,7 @@ buttons = InlineKeyboardMarkup(
 #  2. Inline Support & Update 
 NIGHT_MSG_BUTTONS = InlineKeyboardMarkup(
     [[
-        InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/annu_support"), 
+        InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/Cc_Heroku"), 
                     InlineKeyboardButton(text="✙ ʌᴅᴅ ϻє ɪη ʏσυʀ ɢʀσυᴘ ✙", url=f"https://t.me/{app.username}?startgroup=true"), 
     ]]
 )
