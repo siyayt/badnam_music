@@ -16,8 +16,8 @@ import config
 class BUTTONS(object):
     ABUTTON = [
     [
-        InlineKeyboardButton("˹ sυᴘᴘσʀᴛ ˼", url="https://t.me/annu_support", style=ButtonStyle.PRIMARY),
-        InlineKeyboardButton("˹ υᴘᴅᴧᴛєs ˼", url="https://t.me/annu_updates", style=ButtonStyle.SUCCESS)
+        InlineKeyboardButton("˹ sυᴘᴘσʀᴛ ˼", url="https://t.me/Cc_Heroku", style=ButtonStyle.PRIMARY),
+        InlineKeyboardButton("˹ υᴘᴅᴧᴛєs ˼", url="https://t.me/+KHpnmtJn_r1jMmU1", style=ButtonStyle.SUCCESS)
     ],
     [
         InlineKeyboardButton("˹ ❍ᴡηєʀ ˼", user_id=config.OWNER_ID, style=ButtonStyle.PRIMARY),
